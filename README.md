@@ -1,4 +1,4 @@
-# 🎨 Neural Style Transfer with VGG19
+# 🎨 Neural Style Transfer 
 
 A PyTorch notebook that repaints a photo in the style of a famous painting. The demo turns a kitten photo into a Van Gogh *Starry Night* style image.
 
