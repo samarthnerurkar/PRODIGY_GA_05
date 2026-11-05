@@ -85,6 +85,9 @@ MIT License
 
 ## 👤 Author
 
-**Aapka Naam**
-- GitHub: [@aapka-username](https://github.com/aapka-username)
-- LinkedIn: [Aapka Naam](https://linkedin.com/in/your-profile)
+## 👤 Author
+
+**Samarth Nerurkar**
+
+- GitHub: [@samarthnerurkar](https://github.com/samarthnerurkar)
+- LinkedIn: [Samarth Nerurkar](https://www.linkedin.com/in/samarth-nerurkar/)
