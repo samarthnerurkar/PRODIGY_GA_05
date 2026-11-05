@@ -40,17 +40,9 @@ content_layers = ["conv_4"]
 style_layers = ["conv_1", "conv_2", "conv_3", "conv_4", "conv_5"]
 ```
 
-## 📊 Sample Run
+## 🎬 Demo
 
-Loss during optimization:
-
-| Step | Style loss | Content loss |
-|------|-----------|--------------|
-| 50 | 31.354 | 17.360 |
-| 150 | 3.081 | 15.613 |
-| 300 | 1.445 | 13.561 |
-
-Style loss drops quickly while content stays preserved, giving a kitten painted with Starry Night swirls.
+<img width="1911" height="1055" alt="image" src="https://github.com/user-attachments/assets/2d10a75f-7506-4d08-9ab5-b1c4227c5489" />
 
 ## 🔄 Workflow
 
